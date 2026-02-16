@@ -1,5 +1,5 @@
 from Basic_operation import add, subtract, multiply, divide
-from Advanced_operation import square_list, even_numbers, sum_all
+from Advanced_operations import square_list, even_numbers, sum_all
 from Utility_operations import calculate_average, calculator_info, modify_list
 
 print("=== Python Modular Calculator ===")
